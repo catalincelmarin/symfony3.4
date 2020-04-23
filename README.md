@@ -1,2 +1,4 @@
-# symfony3.4
-Symfony 3.4 app template
+boilerplate
+===========
+
+A Symfony project created on April 23, 2020, 10:19 am.

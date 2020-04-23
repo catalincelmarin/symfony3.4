@@ -1,4 +1,4 @@
-# Cache and logs (Symfony2)
+c# Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
 !app/cache/.gitkeep
